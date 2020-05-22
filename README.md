@@ -4,7 +4,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Person A:
 
-Person A should modify content here.
+Don't tell anyone about my secrets! 
+And I miss you guys !!!
 
 ## Person B:
 

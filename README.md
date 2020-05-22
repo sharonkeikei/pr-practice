@@ -13,7 +13,7 @@ Friday Night Plans
 
 ## Person C:
 
-Person C should modify content here.
+Roses are red, violets are blue, i don't know what else to say or do 
 
 ## Person D:
 

@@ -9,7 +9,7 @@ And I miss you guys !!!
 
 ## Person B:
 
-Person B should modify content here.
+Friday Night Plans
 
 ## Person C:
 
